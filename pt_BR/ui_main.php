@@ -57,6 +57,7 @@
 	'categories' => 'Categorias',
 	'category' => 'Categoria',
 	'category_filter' => 'Filtro de categorias',
+	'filter_reports_by' => 'Filtrar relatos por',
 	'category_has_been' => 'Essa categoria foi',
 	'category_name' => 'Nome da categoria',
 	'choose' => 'Escolha',
@@ -256,7 +257,7 @@
 	'not_specified' => 'Não especificado',
 	'no_reports' => 'Não há relatos',
 	'no_results' => 'Não há resultados',
-	'official_news' => 'Notícias oficiais e dos meios de comunicação',
+	'official_news' => 'Notícias',
 	'option' => 'Opção',
 	'optional' => 'Opcional',
 	'options' => 'Opções',
@@ -410,6 +411,7 @@
 	'sent_by' => 'Enviado por',
 	'server_address' => 'Endereço do servidor',
 	'server_type' => 'Tipo do servidor',
+	'type' => 'Tipo',
 	'service' => 'Servidor',
 	'service_username' => 'Nome de usuário no servidor',
 	'service_user_id' => 'ID do usuário do servidor',
@@ -508,5 +510,6 @@
 	'yesterday' => 'Ontem',
 	'zoom_in' => 'Aproximar zoom',
 	'zoom_out' => 'Afastar zoom',
+	'reports_listed' => 'Últimos Relatos',
 	);
 ?>
